@@ -1,0 +1,3 @@
+#  introduction to bankchurn
+Exploratory Data Analysis (EDA) is a process for investigating datasets, elucidating subjects, and visualizing the outcomes. The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.Python libries such as Pandas,NumPy and SciPy for regression and Matplotlib for visualization in hand with anaconda and jupyter note book.
+The aim is to predict whether a bank's customers leave the bank or not. If the Client has closed his/her bank account, he/she has left by classification.
